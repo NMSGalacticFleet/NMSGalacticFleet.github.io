@@ -8,7 +8,7 @@ import { sidebarBlog } from './sidebars/sidebarBlog';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/NMSGalacticFleet.github.io/',
+  base: '/',
   head,
   title: 'Eisvana',
   description: 'Eisvana Government Portal',
