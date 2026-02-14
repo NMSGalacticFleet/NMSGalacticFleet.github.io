@@ -8,7 +8,6 @@ import { sidebarBlog } from './sidebars/sidebarBlog';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/NMSGalacticFleet.github.io/',
   head,
   title: 'Galactic Fleet',
   description: 'Galactic Fleet Government Portal',
