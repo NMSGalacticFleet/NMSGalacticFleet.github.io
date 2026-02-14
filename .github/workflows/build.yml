@@ -46,8 +46,7 @@ jobs:
           rm -rf .vitepress/dist
           npm ci
           npm run build
-          cd .vitepress/dist
-          touch .nojekyll
+          touch .vitepress/dist/.nojekyll
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
