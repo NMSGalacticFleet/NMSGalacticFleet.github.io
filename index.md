@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: Eisvana
-  tagline: Civilized Space Community in Eissentam
+  name: Galactic Fleet
+  tagline: Civilized Space Community in Euclid
   actions:
     - theme: brand
       text: About Us
@@ -14,7 +14,7 @@ hero:
       link: /services/
     - theme: alt
       text: Wiki
-      link: https://nomanssky.fandom.com/wiki/Eisvana
+      link: https://nomanssky.fandom.com/wiki/Galactic_Fleet
     - theme: alt
       text: Discord
       link: https://discord.gg/Czu3VvjBaa
