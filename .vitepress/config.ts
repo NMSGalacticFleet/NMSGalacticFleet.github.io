@@ -10,8 +10,8 @@ import { sidebarBlog } from './sidebars/sidebarBlog';
 export default defineConfig({
   base: '/NMSGalacticFleet.github.io/',
   head,
-  title: 'Eisvana',
-  description: 'Eisvana Government Portal',
+  title: 'Galactic Fleet',
+  description: 'Galactic Fleet Government Portal',
   cleanUrls: true,
   srcExclude: ['**/README.md'],
   markdown: {
