@@ -20,7 +20,7 @@ export default defineConfig({
     },
   },
   sitemap: {
-    hostname: 'https://eisvana.com',
+    hostname: 'https://nmsgalacticfleet.github.io',
   },
   lastUpdated: true,
   themeConfig: {
